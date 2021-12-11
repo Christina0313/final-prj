@@ -1,0 +1,545 @@
+reported_date,testing_start_date,testing_end_date,board_IDs,school_boards,school_ID,testing_sites
+2021-03-12,2021-03-13,,B66010;B67016,Avon Maitland DSB ; Huron-Superior CDSB,985418,St. Michael's Secondary School  (Huron-Superior CDSB)
+2021-03-12,2021-03-13,,B66303;B67024;B66028;B67024,CS Viamonde ; Conseil scolaire catholique Providence ; Greater Essex County DSB ; Windsor-Essex CDSB,721735,Immaculate Conception Catholic School
+2021-03-12,2021-03-13,,B67105;B66060,Durham CDSB ; Durham DSB,826278,St Mary Catholic Secondary School
+2021-03-12,2021-03-16,,B67105;B66060,Durham CDSB ; Durham DSB,934991,Brooklin HS
+2021-03-12,2021-03-17,,B67105;B66060,Durham CDSB ; Durham DSB,741310,Monsignor Paul Dwyer Catholic High School
+2021-03-12,2021-03-13,,B67113,Halton CDSB,688231,Assumption Catholic Secondary School
+2021-03-12,2021-03-16,,B67113,Halton CDSB,738271,Notre Dame Catholic Secondary School
+2021-03-12,2021-03-17,,B67113,Halton CDSB,854212,St. Thomas Aquinas Catholic Secondary School
+2021-03-12,2021-03-13,,B66133,Halton DSB,953121,White Oaks High School
+2021-03-12,2021-03-18,,B66133,Halton DSB,953121,White Oaks High School
+2021-03-12,2021-03-13,,B67121,Hamilton-Wentworth CDSB,855685,St. Thomas More Catholic Secondary School
+2021-03-12,2021-03-14,,B66036;B67040,Lambton Kent DSB ; St Clair CDSB,890861,Great Lakes Secondary School
+2021-03-12,2021-03-13,,B66125,Peel DSB,487902,Robert H Lagerquist Senior Public School
+2021-03-12,2021-03-13,,B66125,Peel DSB,221538,Goldcrest Public School
+2021-03-12,2021-03-14,,B66125,Peel DSB,254568,Derry West Village Public School
+2021-03-12,2021-03-14,,B66125,Peel DSB,258121,Hillcrest Public School
+2021-03-12,2021-03-18,,B66125,Peel DSB,930660,North Park Secondary School
+2021-03-12,2021-03-18,,B66125,Peel DSB,917559,Humberview Secondary School
+2021-03-12,2021-03-19,,B66125,Peel DSB,899003,Cawthra Park Secondary School
+2021-03-12,2021-03-13,,B67199;B66214,Renfrew County DSB ; Renfrew County CDSB,814962,St Joseph's High School (Renfrew County CDSB)
+2021-03-12,2021-03-17,,B67091,Simcoe Muskoka CDSB,773050,St Thomas Aquinas Catholic Secondary School
+2021-03-12,2021-03-15,,B28070,Superior-Greenstone DSB,924652,Manitouwadge High School
+2021-03-12,2021-03-16,,B28070,Superior-Greenstone DSB,924784,Marathon High School
+2021-03-12,2021-03-17,,B28070,Superior-Greenstone DSB,940666,Lake Superior High School
+2021-03-12,2021-03-18,,B28070,Superior-Greenstone DSB,385131,George O'Neill Public School
+2021-03-12,2021-03-19,,B28070,Superior-Greenstone DSB,912565,Geraldton Composite School
+2021-03-12,2021-03-13,,B66087,Trillium Lakelands DSB,368946,Monck Public School
+2021-03-12,2021-03-13,,B67130;B66117,Upper Grand DSB ; Wellington CDSB ,745529,Our Lady of Lourdes Catholic High School (Wellington CDSB)
+2021-03-12,2021-03-14,,B66117;B67130 ,Upper Grand DSB ; Wellington CDSB ,745529,Our Lady of Lourdes Catholic High School (Wellington CDSB)
+2021-03-12,2021-03-18,,B67130;B66117,Upper Grand DSB ; Wellington CDSB ,792080,St. Francis (Wellington CDSB)
+2021-03-12,2021-03-13,,B67148;B66176,Waterloo CDSB  ;  Waterloo Region DSB,918555,Jacob Hespeler Secondary School (Waterloo Region DSB)
+2021-03-12,2021-03-13,,B67148;B66176,Waterloo CDSB  ;  Waterloo Region DSB,732320,Monsignor Doyle Catholic Secondary School (Waterloo CDSB)
+2021-03-12,2021-03-13,,B66095,York Region DSB,945508,Stephen Lewis Secondary School 
+2021-03-12,2021-03-13,,B66095,York Region DSB,954292,Woodbridge College 
+2021-03-12,2021-03-13,,B66095,York Region DSB,904970,Dr John M Denison Secondary School
+2021-03-19,2021-03-20,,B66010,Avon Maitland District School Board ,459441,North Perth Westfield Elementary School
+2021-03-19,2021-03-25,,B66001,"Bluewater District School Board
+",914444,"Grey Highlands Secondary, Flesherton"
+2021-03-19,2021-03-20,,B67008,Bruce-Grey Catholic District School Board,711985,Holy Family Separate School
+2021-03-19,2021-03-20,,B67172,Catholic District School Board of Eastern Ontario,830283,St. Mary - St. Cecilia
+2021-03-19,2021-03-26,,B67172,Catholic District School Board of Eastern Ontario,697630,Notre Dame Catholic High School
+2021-03-19,2021-03-24,,B66150,District School Board of Niagara ,921750,Laura Secord Secondary School
+2021-03-19,2021-03-20,,B67083,Dufferin-Peel Catholic District School Board,767255,St Aloysius Gonzaga Secondary School
+2021-03-19,2021-03-20,,B67083,Dufferin-Peel Catholic District School Board,806919,St Joseph Secondary School
+2021-03-19,2021-03-21,,B67083,Dufferin-Peel Catholic District School Board,816906,St Kevin School
+2021-03-19,2021-03-23,,B67105,Durham Catholic District School Board ,741310,Monsignor Paul Dwyer Catholic High School
+2021-03-19,2021-03-20,,B66060,Durham District School Board,918423,J Clarke Richardson Collegiate Institute
+2021-03-19,2021-03-20,,B66060,Durham District School Board,892025,Anderson Collegiate and Vocational Institute
+2021-03-19,2021-03-20,,B66028,Greater Essex,922188,Leamington District Secondary School  
+2021-03-19,2021-03-20,,B67113,Halton Catholic DSB,689726,Bishop Paul Francis Reding Catholic Secondary School
+2021-03-19,2021-03-23,,B67113,Halton Catholic DSB,761182,Corpus Christi Catholic Secondary School
+2021-03-19,2021-03-24,,B67113,Halton Catholic DSB,704300,Holy Trinity Catholic Secondary School
+2021-03-19,2021-03-20,,B66133,Halton DSB,926736,Milton District High School
+2021-03-19,2021-03-25,,B66134,Halton DSB,926736,Milton District High School
+2021-03-19,2021-03-20,,B67121,Hamilton-Wentworth Catholic District School Board,800430,St. Jean de Brebeuf Catholic Secondary School
+2021-03-19,2021-03-26,,B67121,Hamilton-Wentworth Catholic District School Board,689750,Bishop Ryan Catholic Secondary School
+2021-03-19,2021-03-26,,B66141,Hamilton-Wentworth District School Board,893455,Nora Henderson Secondary School
+2021-03-19,2021-03-20,,B66079,Kawartha Pine Ridge District School Board,931543,Norwood District High School
+2021-03-19,2021-03-24,,B67032,"London District Catholic School Board
+",831190,St Mary's High School
+2021-03-19,2021-03-24,,B67156,"Niagara Catholic District School Board
+",773662,Saint Michael Catholic High School
+2021-03-19,2021-03-20,,B66125,Peel DSB,308455,Larkspur Public School
+2021-03-19,2021-03-20,,B66125,Peel DSB,89058,Beryl Ford PS
+2021-03-19,2021-03-21,,B66125,Peel DSB,201073,Folkstone Public School
+2021-03-19,2021-03-21,,B66125,Peel DSB,258121,Hillcrest Public School
+2021-03-19,2021-03-23,,B79910,Penetanguishene Protestant SSB,439738,Burkevale Protestant Elementary
+2021-03-19,2021-03-24,,B79910,Penetanguishene Protestant SSB,439738,Burkevale Protestant Elementary
+2021-03-19,2021-03-20,,B67067,Peterborough Victoria Northumberland and Clarington CDSB,855006,St. Thomas Aquinas Catholic Secondary School
+2021-03-19,2021-03-20,,B67199,Renfrew County Catholic District School Board,814962,St. Joseph's Catholic High School 
+2021-03-19,2021-03-20,,B66214,Renfrew County District School Board ,892416,Arnprior District High School 
+2021-03-19,2021-03-25,,B66109,Simcoe County DSB,927724,Nantyr Shores Secondary School
+2021-03-19,2021-03-24,,B67091,Simcoe Muskoka CDSB,711098,Holy Trinity Catholic High School
+2021-03-19,2021-03-21,,B67040,St. Clair Catholic School Board,864366,Ursuline College Chatham Secondary School
+2021-03-19,2021-03-24,,B66044,Thames Valley District School Board,925560,Medway High School
+2021-03-19,2021-03-25,,B66044,Thames Valley District School Board,918024,Huron Park Secondary School
+2021-03-19,2021-03-20,,B66087,Trillium Lakelands DSB,914380,Gravenhurst High School
+2021-03-19,2021-03-24,,B66192,Upper Canada District School Board,898520,Carleton Place High School
+2021-03-19,2021-03-25,,B66117,Upper Grand District School Board,909831,Centre Wellington DHS
+2021-03-19,2021-03-20,,B66176,"Waterloo Region District School Board  
+",898090,Cameron Heights Collegiate Institute
+2021-03-19,2021-03-21,,B66176,"Waterloo Region District School Board 
+",898090,Cameron Heights Collegiate Institute
+2021-03-19,2021-03-23,,B66176,"Waterloo Region District School Board 
+",943894,Southwood Secondary School
+2021-03-19,2021-03-20,,B67139,Wellington Catholic District School Board ,792080,St Francis of Assisi Catholic School
+2021-03-19,2021-03-21,,B67129,Wellington Catholic District School Board ,792080,St Francis of Assisi Catholic School
+2021-03-19,2021-03-20,,B67075,York Catholic DSB,799912,St. Jean de Brebeuf Catholic High School
+2021-03-26,2021-03-27,,B67008,Bruce-Grey Catholic District School Board,776599,St. Mary's High School
+2021-03-26,2021-03-27,,B67172,Catholic District School Board of Eastern Ontario,788686,St. Edward Catholic School
+2021-03-26,2021-03-31,,B67318,Conseil scolaire catholique MonAvenir,691950,École secondaire catholique Saint-Frère-André
+2021-03-26,2021-03-28,,B67300,Conseil scolaire catholique Providence,791601,École secondaire catholique Saint-François-Xavier
+2021-03-26,2021-03-31,,B66150,District School Board of Niagara ,890200,A.N. Myer Secondary School
+2021-03-26,2021-03-27,,B67083,Dufferin-Peel Catholic District School Board,697095,Christ the King Catholic School
+2021-03-26,2021-03-27,,B67083,Dufferin-Peel Catholic District School Board,753211,Robert F. Hall Catholic Secondary School
+2021-03-26,2021-03-28,,B67083,Dufferin-Peel Catholic District School Board,854530,St. Thomas Aquinas Secondary School
+2021-03-26,2021-03-27,,B67105,Durham Catholic District School Board ,826278,St. Mary Catholic Secondary School
+2021-03-26,2021-03-31,,B66060,Durham District School Board,566870,Uxbridge Secondary School
+2021-03-26,2021-03-27,,B66028,Greater Essex County District School Board,917249,Honourable W.C. Kennedy Collegiate Institute
+2021-03-26,2021-03-30,,B67113,Halton Catholic District School Board,688231,Assumption Catholic Secondary School
+2021-03-26,2021-03-27,,B67113,Halton Catholic District School Board,696392,St. Francis Xavier Catholic Secondary School
+2021-03-26,2021-03-30,,B67113,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School
+2021-03-26,2021-03-27,,B66133,Halton District School Board,924393,M.M. Robinson High School
+2021-03-26,2021-04-01,,B66133,Halton District School Board,924393,M.M. Robinson High School
+2021-03-26,2021-03-27,,B67121,Hamilton-Wentworth Catholic District School Board,689750,Bishop Ryan Catholic Secondary School
+2021-03-26,2021-03-27,2021-03-28,B66141,Hamilton-Wentworth District School Board,488921,Dr. J. Edgar Davey Elementary Public School
+2021-03-26,2021-03-27,,B67016,Huron-Perth Catholic District School Board,771686,St. Anne's Catholic Secondary School 
+2021-03-26,2021-03-27,,B28045,Kawartha Pine Ridge District School Board,895539,Bowmanville High School
+2021-03-26,2021-03-31,,B67032,London District Catholic School Board,752827,"Regina Mundi
+Catholic College "
+2021-03-26,2021-03-31,,B67156,Niagara Catholic District School Board,715247,Holy Cross Catholic Secondary School
+2021-03-26,2021-03-27,,B66125,Peel District School Board,426375,Eldorado Public School
+2021-03-26,2021-03-27,,B66125,Peel District School Board,236845,Hazel McCallion Senior Public School
+2021-03-26,2021-03-28,,B66125,Peel District School Board,291986,Kindree Public School
+2021-03-26,2021-03-28,,B66125,Peel District School Board,372978,Mountain Ash Public School
+2021-03-26,2021-03-27,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,855006,St. Thomas Aquinas Catholic Secondary School
+2021-03-26,2021-03-27,,B66214,Renfrew County District School Board ,924431,Madawaska Valley District High School
+2021-03-26,2021-04-01,,B66109,Simcoe County District School Board,893323,Barrie North Collegiate Institute
+2021-03-26,2021-03-31,,B67091,Simcoe Muskoka Catholic District School Board,813389, St. Joseph's Catholic High School
+2021-03-26,2021-04-01,,B66044,Thames Valley District School Board,890073,A.B. Lucas Secondary School
+2021-03-26,2021-03-31,,B66044,Thames Valley District School Board,945846,Strathroy District Collegiate Institute 
+2021-03-26,2021-04-01,,B66052,Toronto District School Board,954160,Woburn Collegiate Institute
+2021-03-26,2021-03-27,,B66087,Trillium Lakelands District School Board,918130,IE Weldon Secondary School
+2021-03-26,2021-03-27,,B66192,Upper Canada District School Board,929590,North Dundas District High School
+2021-03-26,2021-03-27,,B66192,Upper Canada District School Board,918415,Seaway District High School
+2021-03-26,2021-03-27,2021-03-28,B66117,Upper Grand District School Board,909831,Centre Wellington District High School
+2021-03-26,2021-03-27,2021-03-28,B66117,Upper Grand District School Board,178969,Elora Public School
+2021-03-26,2021-04-01,,B66117,Upper Grand District School Board,953555,Wellington Heights Secondary School 
+2021-03-26,2021-03-27,,B67148,Waterloo Catholic District School Board,832103,St. Mary's High School
+2021-03-26,2021-03-28,,B66176,Waterloo Region District School Board  ,917931,Huron Heights Secondary School
+2021-03-26,2021-03-26,2021-03-27,B67075,York Catholic District School Board,706809,Father Michael McGivney Catholic Academy
+2021-03-26,2021-03-27,2021-03-28,B66095,York Region District School Board,928682,Newmarket High School 
+2021-03-26,2021-03-27,2021-03-28,B66095,York Region District School Board,942340,Sir William Mulock Secondary School
+2021-03-26,2021-03-27,2021-03-28,B66095,York Region District School Board,947814,Thornlea Secondary School
+2021-04-06,2021-04-08,,B66001,Bluewater District School Board,951692,Owen Sound District Secondary
+2021-04-06,2021-04-07,,B66150,District School Board of Niagara,894109,Beamsville District Secondary School
+2021-04-06,2021-04-06,,B67113,Halton Catholic District School Board,854212,St. Thomas Aquinas Catholic Secondary School
+2021-04-06,2021-04-07,,B66141,Hamilton-Wentworth District School Board,898848,Bernie Custis Secondary School
+2021-04-06,2021-04-07,,B67032,London District Catholic School Board,763602,St. Andre Bessette Secondary School
+2021-04-06,2021-04-07,,B67156,Niagara Catholic District School Board,690791,Blessed Trinity Catholic Secondary School
+2021-04-06,2021-04-08,,B66109,Simcoe County District School Board,893064,Banting Memorial District High School
+2021-04-06,2021-04-07,,B67091,Simcoe Muskoka District School Board,852775,St Theresa's Separate School
+2021-04-06,2021-04-07,,B66044,Thames Valley District School Board,899305,Central Elgin Collegiate Institute
+2021-04-06,2021-04-08,,B66044,Thames Valley District School Board,902420,College Ave. Secondary School
+2021-04-06,2021-04-08,,B67059,Toronto Catholic District School Board,690961,Brebeuf College School
+2021-04-06,2021-04-09,,B66052,Toronto District School Board,938173,Richview Collegiate Institute
+2021-04-09,2021-04-10,,B67164,Brant Haldimand Norfolk Catholic District School Board,751898,St John's College
+2021-04-09,2021-04-10,,B67008,Bruce-Grey Catholic District School Board,759430,Sacred Heart High School
+2021-04-09,2021-04-12,,B67334,Conseil des Écoles catholiques du Centre-Est,752550,École intermédiaire catholique Franco-Cité
+2021-04-09,2021-04-15,,B67334,Conseil des Écoles catholiques du Centre-Est,718973,École intermédiaire catholique Pierre-Savard
+2021-04-09,2021-04-13,,B66311,Conseil des ecoles publiques de l'Est de l'Ontario          ,215970,École élémentaire publique Gisèle-Lalonde
+2021-04-09,2021-04-10,,B67300,Conseil scolaire catholique Providence,728772,École secondaire catholique l'Essor
+2021-04-09,2021-04-10,,B67300,Conseil scolaire catholique Providence,708500,École secondaire catholique École secondaire Monseigneur-Bruyère
+2021-04-09,2021-04-14,,B66150,District School Board of Niagara,890200,A N Myer Secondary School
+2021-04-09,2021-04-14,,B66060,Durham District School Board,911291,G L Roberts Collegiate and Vocational Institute
+2021-04-09,2021-04-13,,B66060,Durham District School Board,918423,J Clarke Richardson Collegiate Institute
+2021-04-09,2021-04-10,,B67113,Halton Catholic District School Board,738271,Notre Dame Catholic Secondary School
+2021-04-09,2021-04-13,,B67113,Halton Catholic District School Board,704300,Holy Trinity Catholic Secondary School
+2021-04-09,2021-04-14,,B67113,Halton Catholic District School Board,696392,St. Francis Xavier Catholic Secondary School
+2021-04-09,2021-04-10,,B67121,Hamilton-Wentworth Catholic District School Board,689386,Bishop Tonnos Catholic Secondary School
+2021-04-09,2021-04-10,,B67016,Huron Perth Catholic District School Board,706396,Precious Blood Separate School
+2021-04-09,2021-04-10,,B66079,Kawartha Pine Ridge District School Board,906719,East Northumberland Secondary School
+2021-04-09,2021-04-14,,B67032,London District Catholic School Board,997676,Centre for Lifelong Learning
+2021-04-09,2021-04-14,,B67156,Niagara Catholic District School Board,773662,Saint Michael Catholic High School
+2021-04-09,2021-04-14,,B67180,Ottawa Catholic School Board,759970,Sacred Heart High School
+2021-04-09,2021-04-16,,B66184,Ottawa-Carleton District School Board,913472,Gloucester High School
+2021-04-09,2021-04-10,,B66087,Trillium Lakelands District School Board,909700,Fenelon Falls Secondary School
+2021-04-09,2021-04-10,2021-04-11,B66176,Waterloo Region District School Board,950912,Waterloo Collegiate Institute
+2021-04-09,2021-04-11,,B67040,St. Clair Catholic District School Board,836788,St Patrick's Catholic High School
+2021-04-16,2021-04-17,,B66010,Avon Maitland District School Board,944807,St Marys D.C. & V. I. High School
+2021-04-16,2021-04-22,,B66001,Bluewater District School Board,951692,Owen Sound District Secondary School Secondary School
+2021-04-16,2021-04-17,,B67164,Brant Haldimand Norfolk Catholic District School Board,688088,Assumption College School High School
+2021-04-16,2021-04-17,,B67008,Bruce-Grey Catholic District School Board,774332,St Anthony's Separate School
+2021-04-16,2021-04-17,,B67172,Catholic District School Board of Eastern Ontario,832480,St Michael High School
+2021-04-16,2021-04-17,2021-04-18,B66311,Conseil des ecoles publiques de l'Est de l'Ontario          ,907421,École secondaire publique Omer-Deslauriers
+2021-04-16,2021-04-23,,B66303,Conseil scolaire Viamonde,925326,École secondaire Roméo Dallaire
+2021-04-16,2021-04-21,,B66150,District School Board of Niagara,935700,Port Colborne High School
+2021-04-16,2021-04-17,,B67083,Dufferin-Peel Catholic District School Board,742333,Our Lady of Mount Carmel Secondary School
+2021-04-16,2021-04-17,,B67083,Dufferin-Peel Catholic District School Board,706337,Father Clair Tipping School
+2021-04-16,2021-04-18,,B67083,Dufferin-Peel Catholic District School Board,821381,St Marcellinus Secondary School
+2021-04-16,2021-04-17,,B67105,Durham Catholic District School Board,826278,St Mary Catholic Secondary School
+2021-04-16,2021-04-17,,B67113,Halton Catholic District School Board,761182,Corpus Christi Catholic Secondary School
+2021-04-16,2021-04-20,,B67113,Halton Catholic District School Board,688231,Assumption Catholic Secondary School
+2021-04-16,2021-04-21,,B67113,Halton Catholic District School Board,697125,Christ the King Catholic Secondary School
+2021-04-16,2021-04-17,,B66133,Halton District School Board,901439,Garth Webb Secondary School
+2021-04-16,2021-04-17,,B67121,Hamilton-Wentworth Catholic District School Board,689750,Bishop Ryan Catholic Secondary School
+2021-04-16,2021-04-23,,B67121,Hamilton-Wentworth Catholic District School Board,854336,St. Thomas Catholic Elementary School
+2021-04-16,2021-04-23,,B67121,Hamilton-Wentworth Catholic District School Board,827401,St. Mary Catholic Secondary School
+2021-04-16,2021-04-21,,B66141,Hamilton-Wentworth District School Board,941719,Sir Allan MacNab Secondary School
+2021-04-16,2021-04-21,,B66141,Hamilton-Wentworth District School Board,898848,Bernie Custis Secondary School
+2021-04-16,2021-04-22,,B66141,Hamilton-Wentworth District School Board,951820,Westdale Secondary School
+2021-04-16,2021-04-17,,B66079,Kawartha Pine Ridge District School Board,947563,Thomas A Stewart Secondary School
+2021-04-16,2021-04-22,,B66036,Lambton Kent District School Board,910228,North Lambton Secondary School
+2021-04-16,2021-04-21,,B67032,London District Catholic School Board,810916,St Joseph's High School
+2021-04-16,2021-04-21,,B67156,Niagara Catholic District School Board,726087,Lakeshore Catholic High School
+2021-04-16,2021-04-17,,B66125,Peel District School Board,503560,Aylesbury Public School
+2021-04-16,2021-04-17,,B66125,Peel District School Board,194093,Fernforest Public School
+2021-04-16,2021-04-18,,B66125,Peel District School Board,250350,Brian W. Fleming Public School
+2021-04-16,2021-04-18,,B66125,Peel District School Board,134198,David Leeder Middle School
+2021-04-16,2021-04-22,,B66125,Peel District School Board,901342,Chinguacousy Secondary School
+2021-04-16,2021-04-22,,B66125,Peel District School Board,945978,Streetsville Secondary School
+2021-04-16,2021-04-23,,B66125,Peel District School Board,951404,West Credit Secondary School
+2021-04-16,2021-04-17,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,830410,St. Mary Catholic Secondary School
+2021-04-16,2021-04-23,,B67199,Renfrew County Catholic District School Board,689939,Bishop Smith Catholic High School
+2021-04-16,2021-04-22,,B66109,Simcoe County District School Board,928151,Georgian Bay District Secondary School
+2021-04-16,2021-04-21,,B67091,Simcoe Muskoka Catholic District School Board,723630,Our Lady of the Bay Catholic High School
+2021-04-16,2021-04-18,,B67040,St Clair Catholic District School Board,864366,Ursuline College Chatham Catholic Secondary School
+2021-04-16,2021-04-17,,B66044,Thames Valley District School Board,927430,Montcalm Secondary School
+2021-04-16,2021-04-20,,B66044,Thames Valley District School Board,951439,West Elgin Secondary School
+2021-04-16,2021-04-22,,B66044,Thames Valley District School Board,901644,Clarke Road Secondary School
+2021-04-16,2021-04-17,,B66087,Trillium Lakelands District School Board,922838,Lindsay Collegiate and Vocational Institute
+2021-04-16,2021-04-17,,B66192,Upper Canada District School Board,896578,Brockville Collegiate Institute
+2021-04-16,2021-04-18,,B66192,Upper Canada District School Board,948314,Thousand Islands Secondary School
+2021-04-16,2021-04-17,,B66117,Upper Grand District School Board,899283,Centennial Collegiate and Vocational Institute
+2021-04-16,2021-04-18,,B66117,Upper Grand District School Board,932450,Orangeville District Secondary School
+2021-04-16,2021-04-21,,B66117,Upper Grand District School Board,900214,Centre Dufferin District High School
+2021-04-16,2021-04-17,,B67148,Waterloo Catholic District School Board,776726,St Benedict Catholic Secondary School
+2021-04-16,2021-04-22,,B67130,Wellington Catholic District School Board,798690,St James Catholic School
+2021-04-23,2021-04-29,,B66001,Bluewater District School Board,950262,Walkerton District Community School
+2021-04-23,2021-04-24,,B67008,Bruce-Grey Catholic District School Board,710296,Mary Immaculate Community School
+2021-04-23,2021-04-24,,B67008,Bruce-Grey Catholic District School Board,721255,Ecole Immaculee-Conception Separate School
+2021-04-23,2021-04-24,,B67172,Catholic District School Board of Eastern Ontario,773026,St. Thomas Aquinas Catholic School
+2021-04-23,2021-04-24,,B67172,Catholic District School Board of Eastern Ontario,821553,Holy Trinity Catholic Elementary School
+2021-04-23,2021-04-26,2021-04-27,B66311,Conseil des Écoles publiques de l'Est de l'Ontario          ,204986,École élémentaire publique Gabrielle-Roy
+2021-04-23,2021-04-25,,B67318,Conseil scolaire catholique MonAvenir,773943,ÉÉC Pape-François
+2021-04-23,2021-04-25,,B67318,Conseil scolaire catholique MonAvenir,839486,ÉIC Sainte-Trinité
+2021-04-23,2021-04-30,,B67318,Conseil scolaire catholique MonAvenir,705128,ÉIC Monseigneur-de-Charbonnel
+2021-04-23,2021-04-29,,B66303,Conseil scolaire Viamonde,918997,Collège français secondaire
+2021-04-23,2021-04-28,,B66150,District School Board of Niagara,942464,Sir Winston Churchill Secondary School
+2021-04-23,2021-04-28,,B66150,District School Board of Niagara,914010,Governor Simcoe Secondary School
+2021-04-23,2021-04-24,,B67083,Dufferin-Peel Catholic District School Board,696307,Father C W Sullivan Catholic School
+2021-04-23,2021-04-24,,B67083,Dufferin-Peel Catholic District School Board,722790,Iona Secondary School
+2021-04-23,2021-04-25,,B67083,Dufferin-Peel Catholic District School Board,724564,John Cabot Catholic Secondary School
+2021-04-23,2021-04-24,,B67105,Durham Catholic District School Board,741310,Monsignor Paul Dwyer Catholic High School
+2021-04-23,2021-04-27,,B66060,Durham District School Board,350508,McCaskill's Mills Public School
+2021-04-23,2021-04-28,,B66060,Durham District School Board,890855,Ajax High School
+2021-04-23,2021-04-24,,B66168,Grand Erie District School Board,933490,Paris District High School
+2021-04-23,2021-04-24,,B67113,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School
+2021-04-23,2021-04-27,,B67113,Halton Catholic District School Board,689726,Bishop Paul Francis Reding Catholic Secondary School
+2021-04-23,2021-04-28,,B67113,Halton Catholic District School Board,738271,Notre Dame Catholic Secondary School
+2021-04-23,2021-04-24,,B66133,Halton District School Board,967740,Craig Kielburger Secondary School
+2021-04-23,2021-04-29,,B66133,Halton District School Board,967740,Craig Kielburger Secondary School
+2021-04-23,2021-04-24,,B67121,Hamilton-Wentworth Catholic District School Board,827401,St. Mary Catholic Secondary School
+2021-04-23,2021-04-30,,B67121,Hamilton-Wentworth Catholic District School Board,800430,St. Jean de Brebeuf Catholic Secondary School
+2021-04-23,2021-04-28,,B66141,Hamilton-Wentworth District School Board,952478,Westmount Secondary School
+2021-04-23,2021-04-28,,B66141,Hamilton-Wentworth District School Board,891894,Ancaster High School
+2021-04-23,2021-04-24,,B67016,Huron Perth Catholic District School Board,827940,St Marys Separate School
+2021-04-23,2021-04-24,,B66079,Kawartha Pine Ridge District School Board,901687,Clarington Central Secondary School
+2021-04-23,2021-04-25,,B66036,Lambton Kent District School Board,305510,Lambton Central Centennial School
+2021-04-23,2021-04-28,,B67032,London District Catholic School Board,854280,St Thomas Aquinas Secondary School
+2021-04-23,2021-04-24,,B66125,Peel District School Board,237787,Conestoga Public School
+2021-04-23,2021-04-24,,B66125,Peel District School Board,74179,Caledon East Public School
+2021-04-23,2021-04-25,,B66125,Peel District School Board,466778,Queenston Drive Public School
+2021-04-23,2021-04-25,,B66125,Peel District School Board,210455,Garthwood Park Public School
+2021-04-23,2021-04-24,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,830410,St. Mary Catholic Secondary School
+2021-04-23,2021-04-24,,B66214,Renfrew County District School Board,902747,Valour JK to 12 School - Secondary School
+2021-04-23,2021-04-28,,B67091,Simcoe Muskoka Catholic District School Board,751103,Patrick Fogarty Catholic Secondary School
+2021-04-23,2021-04-27,,B66044,Thames Valley District School Board,923745,London Central Secondary School
+2021-04-23,2021-04-29,,B66044,Thames Valley District School Board,904503,Lord Dorchester Secondary School
+2021-04-23,2021-04-24,,B66087,Trillium Lakelands District School Board,915297,Haliburton Highland Secondary School
+2021-04-23,2021-04-24,,B66192,Upper Canada District School Board,929859,North Grenville District High School
+2021-04-23,2021-04-25,,B66117,Upper Grand District School Board,900214,Centre Dufferin District High School
+2021-04-23,2021-04-28,,B66117,Upper Grand District School Board,311316,Laurelwoods Elementary School
+2021-04-23,2021-04-29,,B66117,Upper Grand District School Board,590665,Waverley Drive Public School
+2021-04-23,2021-04-24,2021-04-25,B66176,Waterloo Region District School Board,895458,Bluevale Collegiate Institute
+2021-04-23,2021-04-24,,B67130,Wellington Catholic District School Board,798690,St James Catholic School
+2021-04-23,2021-04-24,,B67024,Windsor-Essex Catholic District School Board,715824,Holy Names Catholic High School
+2021-04-23,2021-04-28,2021-04-29,B67075,York Catholic District School Board,874888,Our Lady Queen of the World CA High School
+2021-04-23,2021-04-28,2021-04-29,B66095,York Region District School Board,917893,Huron Heights Secondary School
+2021-04-23,2021-04-28,2021-04-29,B66095,York Region District School Board,890202,Bill Hogarth Secondary School
+2021-04-23,2021-04-28,2021-04-29,B66095,York Region District School Board,952516,Westmount Collegiate Institute
+2021-04-30,2021-05-01,,B66010,Avon Maitland District School Board,927120,Mitchell District High School
+2021-04-30,2021-05-01,,B67008,Bruce-Grey Catholic District School Board,737399,Notre Dame Catholic School
+2021-04-30,2021-05-01,,B67172,Catholic District School Board of Eastern Ontario,767431,St. Joseph Intermediate Catholic School
+2021-04-30,2021-05-01,,B67334,Conseil scolaire de district catholique du Centre-Est de l’Ontario,804005,École secondaire catholique Notre-Dame
+2021-04-30,2021-05-02,,B66303,Conseil scolaire Viamonde,572312,École élémentaire Gaetan-Gervais
+2021-04-30,2021-05-05,,B66150,District School Board of Niagara,914517,Grimsby Secondary School
+2021-04-30,2021-05-01,,B67083,Dufferin-Peel Catholic District School Board,718114,Holy Name of Mary Secondary School
+2021-04-30,2021-05-01,,B67083,Dufferin-Peel Catholic District School Board,850217,St Sebastian Catholic Elementary School
+2021-04-30,2021-05-02,,B67083,Dufferin-Peel Catholic District School Board,772496,St Andrew School
+2021-04-30,2021-05-02,,B67083,Dufferin-Peel Catholic District School Board,687308,Ascension of Our Lord Secondary School
+2021-04-30,2021-05-01,,B67105,Durham Catholic District School Board,685984,All Saints Catholic Secondary School Secondary School
+2021-04-30,2021-05-05,,B67105,Durham Catholic District School Board,826278,St Mary Catholic Secondary School
+2021-04-30,2021-05-04,,B66060,Durham District School Board,932345,Maxwell Heights Secondary School
+2021-04-30,2021-05-01,,B66168,Grand Erie District School Board,898007,McKinnon Park Secondary School
+2021-04-30,2021-05-01,,B66028,Greater Essex County District School Board,939765,Sandwich Secondary School
+2021-04-30,2021-05-04,,B67113,Halton Catholic District School Board,696392,St. Francis Xavier Catholic Secondary School
+2021-04-30,2021-05-05,,B67113,Halton Catholic District School Board,761182,Corpus Christi Catholic Secondary School
+2021-04-30,2021-05-01,,B66133,Halton District School Board,893675,Dr. Frank J. Hayden Secondary School
+2021-04-30,2021-05-06,,B66133,Halton District School Board,893675,Dr. Frank J. Hayden Secondary School
+2021-04-30,2021-05-01,,B67121,Hamilton-Wentworth Catholic District School Board,800430,St. Jean de Brebeuf Catholic Secondary School
+2021-04-30,2021-05-07,,B67121,Hamilton-Wentworth Catholic District School Board,855685,St. Thomas More Catholic Secondary School
+2021-04-30,2021-05-05,,B66141,Hamilton-Wentworth District School Board,941328,Sherwood Secondary School
+2021-04-30,2021-05-01,,B66079,Kawartha Pine Ridge District School Board,936090,Port Hope High School
+2021-04-30,2021-05-05,,B28045,Keewatin-Patricia District School Board,937789,Red Lake District High School
+2021-04-30,2021-05-06,,B28045,Keewatin-Patricia District School Board,157503,Ear Falls Public School
+2021-04-30,2021-05-07,,B28045,Keewatin-Patricia District School Board,918113,Ignace Secondary School
+2021-04-30,2021-05-01,2021-05-03,B28045,Keewatin-Patricia District School Board,936871,Sioux North District High School
+2021-04-30,2021-05-02,,B66036,Lambton Kent District School Board,895148,Blenheim District High School
+2021-04-30,2021-05-05,,B67032,London District Catholic School Board,704253,Holy Cross Catholic Secondary School
+2021-04-30,2021-05-05,,B67156,Niagara Catholic District School Board,726087,Lakeshore Catholic High School
+2021-04-30,2021-05-01,,B66125,Peel District School Board,195640,Eagle Plains Public School
+2021-04-30,2021-05-01,,B66125,Peel District School Board,332933,Morton Way Public School
+2021-04-30,2021-05-02,,B66125,Peel District School Board,30880,Balmoral Drive Senior Public School
+2021-04-30,2021-05-02,,B66125,Peel District School Board,107280,Ruth Thompson Middle School
+2021-04-30,2021-05-01,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,851116,St. Stephen Catholic Secondary School
+2021-04-30,2021-05-07,,B66214,Renfrew County District School Board,904767,Mackenzie Community School - Secondary School
+2021-04-30,2021-05-01,,B67091,Simcoe Muskoka Catholic District School Board,773050,St Thomas Aquinas Catholic Secondary School
+2021-04-30,2021-05-05,,B67091,Simcoe Muskoka Catholic District School Board,786691,St Dominic Catholic Secondary School
+2021-04-30,2021-05-04,,B66044,Thames Valley District School Board,931934,Oakridge Secondary School
+2021-04-30,2021-05-06,,B66044,Thames Valley District School Board,918156,Ingersoll District Collegiate Institute
+2021-04-30,2021-05-06,,B67059,Toronto Catholic District School Board,731951,Father John Redmond Catholic Secondary School
+2021-04-30,2021-05-07,,B66052,Toronto District School Board,890880,Albert Campbell Collegiate Institute
+2021-04-30,2021-05-01,,B66087,Trillium Lakelands District School Board,368946,Monck Public School
+2021-04-30,2021-05-01,,B66192,Upper Canada District School Board,892807,Athens District High School
+2021-04-30,2021-05-02,,B66192,Upper Canada District School Board,938300,Rideau District High School
+2021-04-30,2021-05-01,,B66117,Upper Grand District School Board,590665,Waverley Drive Public School
+2021-04-30,2021-05-02,,B66117,Upper Grand District School Board,311316,Laurelwoods Elementary School
+2021-04-30,2021-05-05,,B66117,Upper Grand District School Board,932450,Orangeville District Secondary School
+2021-04-30,2021-05-06,,B66117,Upper Grand District School Board,918679,John F Ross Collegiate and Vocational Institute
+2021-04-30,2021-05-01,,B66176,Waterloo Region District School Board,908142,Elmira District Secondary School
+2021-04-30,2021-05-02,,B66176,Waterloo Region District School Board,951048,Waterloo-Oxford District Secondary School
+2021-04-30,2021-05-06,2021-05-07,B67075,York Catholic District School Board,849901,Father Bressani Catholic High School
+2021-04-30,2021-05-06,2021-05-07,B66095,York Region District School Board,894672,Pierre Elliott Trudeau High School
+2021-04-30,2021-05-06,2021-05-07,B66095,York Region District School Board,924849,Markville Secondary School
+2021-04-30,2021-05-06,2021-05-07,B66095,York Region District School Board,908819,Emily Carr Secondary School
+2021-05-07,2021-05-09,,B28010,Algoma District School Board,264750,Hornepayne Public School
+2021-05-07,2021-05-13,,B66001,Bluewater District School Board,290604,Saugeen District Senior School
+2021-05-07,2021-05-08,,B67164,Brant Haldimand Norfolk Catholic District School Board,720232,Holy Trinity Catholic High School
+2021-05-07,2021-05-08,,B67008,Bruce-Grey Catholic District School Board,732800,St Teresa of Calcutta Catholic School
+2021-05-07,2021-05-08,,B67172,Catholic District School Board of Eastern Ontario,828726,St Mary's Separate School
+2021-05-07,2021-05-14,,B67318,Conseil scolaire catholique MonAvenir,740390,ÉSC Nouvelle-Alliance
+2021-05-07,2021-05-12,,B29122,Conseil scolaire du district catholique du Nouvel-Ontario,S00001,Municipality of St-Charles Community Center 
+2021-05-07,2021-05-13,,B29122,Conseil scolaire du district catholique du Nouvel-Ontario,S00002,Municipality of Markstay-Warren Arena
+2021-05-07,2021-05-14,,B29122,Conseil scolaire du district catholique du Nouvel-Ontario,S00003,Municipality of French River Arena
+2021-05-07,2021-05-10,,B28118,Conseil scolaire public du Grand Nord de l'Ontario,890817,École secondaire l'Orée des Bois
+2021-05-07,2021-05-08,,B66303,Conseil scolaire Viamonde,910554,École secondaire Gabriel-Dumont
+2021-05-07,2021-05-12,,B66150,District School Board of Niagara,906972,Eastdale Secondary School
+2021-05-07,2021-05-08,,B67083,Dufferin-Peel Catholic District School Board,683246,St.  Aidan Catholic Elementary School
+2021-05-07,2021-05-08,,B67083,Dufferin-Peel Catholic District School Board,798118,Loyola Catholic Secondary School
+2021-05-07,2021-05-09,,B67083,Dufferin-Peel Catholic District School Board,775606,St Augustine Secondary School
+2021-05-07,2021-05-08,,B67113,Halton Catholic District School Board,704300,Holy Trinity Catholic Secondary School
+2021-05-07,2021-05-11,,B67113,Halton Catholic District School Board,697125,Christ the King Catholic Secondary School
+2021-05-07,2021-05-12,,B67113,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School
+2021-05-07,2021-05-08,,B66133,Halton District School Board,913715,Abbey Park High School
+2021-05-07,2021-05-13,,B66133,Halton District School Board,913715,Abbey Park High School
+2021-05-07,2021-05-08,,B67121,Hamilton-Wentworth Catholic District School Board,855685,St. Thomas More Catholic Secondary School
+2021-05-07,2021-05-14,,B67121,Hamilton-Wentworth Catholic District School Board,695343,Cathedral High School
+2021-05-07,2021-05-10,,B66141,Hamilton-Wentworth District School Board,913081,Glendale Secondary School
+2021-05-07,2021-05-08,,B67016,Huron Perth Catholic District School Board,832545,St Michael Catholic Secondary School
+2021-05-07,2021-05-08,,B29025,Huron-Superior Catholic District School Board,825999,St Mary Catholic School
+2021-05-07,2021-05-11,,B29025,Huron-Superior Catholic District School Board,755923,Sacred Heart Catholic School
+2021-05-07,2021-05-08,,B66079,Kawartha Pine Ridge District School Board,919195,Kenner Collegiate and Vocational Institute
+2021-05-07,2021-05-08,,B28045,Keewatin-Patricia District School Board,566489,Upsala Public School
+2021-05-07,2021-05-08,2021-05-11,B66206,Limestone District School Board,909181,Ernestown Secondary School
+2021-05-07,2021-05-12,2021-05-14,B66206,Limestone District School Board,946494,Sydenham High School
+2021-05-07,2021-05-12,,B67032,London District Catholic School Board,695734,Catholic Central High School
+2021-05-07,2021-05-12,,B67156,Niagara Catholic District School Board,703796,Denis Morris Catholic High School
+2021-05-07,2021-05-09,,B66125,Peel District School Board,27655,Carberry Public School
+2021-05-07,2021-05-09,,B66125,Peel District School Board,552259,Thomas Street Middle School
+2021-05-07,2021-05-08,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,851116,St. Stephen Catholic Secondary School
+2021-05-07,2021-05-08,,B66214,Renfrew County District School Board,932434,Opeongo High School
+2021-05-07,2021-05-12,,B67091,Simcoe Muskoka Catholic District School Board,843342,St Peter the Apostle School
+2021-05-07,2021-05-10,,B28070,Superior-Greenstone District School Board,940666,Lake Superior High School
+2021-05-07,2021-05-11,,B28070,Superior-Greenstone District School Board,924784,Marathon High School
+2021-05-07,2021-05-11,,B66044,Thames Valley District School Board,942162,Sir Wilfrid Laurier Secondary School
+2021-05-07,2021-05-13,,B67059,Toronto Catholic District School Board,731820,Michael Power/St Joseph High School
+2021-05-07,2021-05-14,,B66052,Toronto District School Board,937266,R H King Academy
+2021-05-07,2021-05-08,,B66192,Upper Canada District School Board,942987,South Grenville District High School
+2021-05-07,2021-05-08,,B66117,Upper Grand District School Board,918679,John F Ross Collegiate and Vocational Institute
+2021-05-07,2021-05-09,,B66117,Upper Grand District School Board,932450,Orangeville District Secondary School
+2021-05-07,2021-05-12,,B66117,Upper Grand District School Board,931284,Norwell District Secondary School
+2021-05-07,2021-05-08,,B66176,Waterloo Region District School Board,936480,Preston High School
+2021-05-07,2021-05-13,,B67130,Wellington Catholic District School Board,689661,Bishop Macdonell Catholic Secondary School
+2021-05-07,2021-05-08,,B67024,Windsor-Essex Catholic District School Board,806188,St Joseph Catholic School
+2021-05-14,2021-05-15,,B66010,Avon Maitland District School Board,899569,Central Huron Secondary School
+2021-05-14,2021-05-20,,B66001,Bluewater District School Board,915556,John Diefenbaker Senior School
+2021-05-14,2021-05-15,,B67008,Bruce-Grey Catholic District School Board,751464,St Joseph's School
+2021-05-14,2021-05-15,,B67172,Catholic District School Board of Eastern Ontario,767431,St. Joseph Intermediate Catholic School
+2021-05-14,2021-05-20,,B67318,Conseil scolaire catholique MonAvenir,846041,�SC P�re-Philippe-Lamarche
+2021-05-14,2021-05-15,,B67300,Conseil scolaire catholique Providence,708054,�cole �l�mentaire catholique Georges P Vanier
+2021-05-14,2021-05-15,,B66303,Conseil scolaire Viamonde,165204,�cole interm�diaire Franco-Niagara
+2021-05-14,2021-05-20,,B66303,Conseil scolaire Viamonde,909858,�cole secondaire Franco-Jeunesse
+2021-05-14,2021-05-19,,B66150,District School Board of Niagara,948055,Thorold Secondary School
+2021-05-14,2021-05-15,,B67083,Dufferin-Peel Catholic District School Board,860217,St. Evan Catholic Elementary School
+2021-05-14,2021-05-16,,B67083,Dufferin-Peel Catholic District School Board,850888,Cardinal Leger Secondary School
+2021-05-14,2021-05-15,,B66168,Grand Erie District School Board,930245,North Park Collegiate and Vocational School
+2021-05-14,2021-05-15,,B67113,Halton Catholic District School Board,688231,Assumption Catholic Secondary School
+2021-05-14,2021-05-18,,B67113,Halton Catholic District School Board,738271,Notre Dame Catholic Secondary School
+2021-05-14,2021-05-19,,B67113,Halton Catholic District School Board,854212,St. Thomas Aquinas Catholic Secondary School
+2021-05-14,2021-05-15,,B66133,Halton District School Board,912433,Georgetown District High School
+2021-05-14,2021-05-20,,B66133,Halton District School Board,912433,Georgetown District High School
+2021-05-14,2021-05-15,,B67121,Hamilton-Wentworth Catholic District School Board,695343,Cathedral High School
+2021-05-14,2021-05-21,,B67121,Hamilton-Wentworth Catholic District School Board,689386,Bishop Tonnos Catholic Secondary School
+2021-05-14,2021-05-17,,B66141,Hamilton-Wentworth District School Board,893455,Nora Henderson Secondary School
+2021-05-14,2021-05-15,2021-05-18,B66206,Limestone District School Board,946494,Sydenham High School
+2021-05-14,2021-05-19,,B67032,London District Catholic School Board,724513,John Paul II Catholic Secondary School
+2021-05-14,2021-05-19,,B67156,Niagara Catholic District School Board,740195,Notre Dame College School
+2021-05-14,2021-05-15,,R00002,Ottawa Region,S00008,AMA Community Centre
+2021-05-14,2021-05-15,,B66125,Peel District School Board,501875,Centennial Senior Public School
+2021-05-14,2021-05-15,,B66125,Peel District School Board,253464,Harold F Loughin Public School
+2021-05-14,2021-05-16,,B66125,Peel District School Board,185655,Erin Mills Middle School
+2021-05-14,2021-05-16,,B66125,Peel District School Board,307548,Lancaster Public School
+2021-05-14,2021-05-15,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,845361,St. Peter Catholic Secondary School
+2021-05-14,2021-05-21,,B66214,Renfrew County District School Board,932434,Opeongo High School
+2021-05-14,2021-05-19,,B67091,Simcoe Muskoka Catholic District School Board,711098,Holy Trinity Catholic High School
+2021-05-14,2021-05-18,,B66044,Thames Valley District School Board,912956,Glendale High School
+2021-05-14,2021-05-21,,B66052,Toronto District School Board,951749,West Humber Collegiate Institute
+2021-05-14,2021-05-15,,B66192,Upper Canada District School Board,946648,Tagwi Secondary School
+2021-05-14,2021-05-16,,B66117,Upper Grand District School Board,931284,Norwell District Secondary School
+2021-05-14,2021-05-20,,B66117,Upper Grand District School Board,185582,Erin Public School
+2021-05-14,2021-05-15,2021-05-16,B66176,Waterloo Region District School Board,910350,Forest Heights Collegiate Institute
+2021-05-14,2021-05-15,,B67130,Wellington Catholic District School Board,689661,Bishop Macdonell Catholic Secondary School
+2021-05-14,2021-05-19,2021-05-20,B67075,York Catholic District School Board,849626,St Robert Catholic High School
+2021-05-14,2021-05-19,2021-05-20,B66095,York Region District School Board,951714,Maple High School
+2021-05-14,2021-05-19,2021-05-20,B66095,York Region District School Board,890202,Bill Hogarth Secondary School
+2021-05-14,2021-05-19,2021-05-20,B66095,York Region District School Board,921661,Langstaff Secondary School
+2021-05-21,2021-05-27,,B66001,Bluewater District School Board,151668,Kincardine District Senior School
+2021-05-21,2021-05-22,,B67008,Bruce-Grey Catholic District School Board,776602,St Basil's Separate School
+2021-05-21,2021-05-22,,B67172,Catholic District School Board of Eastern Ontario,791938,St Francis de Sales Separate School
+2021-05-21,2021-05-27,,B66303,Conseil scolaire Viamonde,907588,�cole secondaire �tienne-Br�l�
+2021-05-21,2021-05-26,,B66150,District School Board of Niagara,906328,E L Crossley Secondary School
+2021-05-21,2021-05-22,,B67083,Dufferin-Peel Catholic District School Board,706957,Father Michael Goetz Secondary School
+2021-05-21,2021-05-23,,B67083,Dufferin-Peel Catholic District School Board,723967,St. John Henry Newman Catholic Elementary School
+2021-05-21,2021-05-25,,B67105,Durham Catholic District School Board,741310,Monsignor Paul Dwyer Catholic High School
+2021-05-21,2021-05-22,,B66060,Durham District School Board,890855,Ajax High School
+2021-05-21,2021-05-26,,B66060,Durham District School Board,350508,McCaskill's Mills Public School
+2021-05-21,2021-05-22,,B66028,Greater Essex County District School Board,211192,General Brock Public School
+2021-05-21,2021-05-22,,B67113,Halton Catholic District School Board,689726,Bishop Paul Francis Reding Catholic Secondary School
+2021-05-21,2021-05-25,,B67113,Halton Catholic District School Board,761182,Corpus Christi Catholic Secondary School
+2021-05-21,2021-05-26,,B67113,Halton Catholic District School Board,704300,Holy Trinity Catholic Secondary School
+2021-05-21,2021-05-22,,B66133,Halton District School Board,897353,Burlington Central High School
+2021-05-21,2021-05-27,,B66133,Halton District School Board,897353,Burlington Central High School
+2021-05-21,2021-05-22,,B67121,Hamilton-Wentworth Catholic District School Board,689386,Bishop Tonnos Catholic Secondary School
+2021-05-21,2021-05-28,,B67121,Hamilton-Wentworth Catholic District School Board,694134,St. John Henry Newman Catholic Secondary School
+2021-05-21,2021-05-25,,B66141,Hamilton-Wentworth District School Board,898848,Bernie Custis Secondary School Secondary School
+2021-05-21,2021-05-22,,B67016,Huron Perth Catholic District School Board,832545,St Michael Catholic Secondary School
+2021-05-21,2021-05-26,,B67032,London District Catholic School Board,733032,Mother Teresa Catholic Secondary School
+2021-05-21,2021-05-26,,B67156,Niagara Catholic District School Board,726087,Lakeshore Catholic High School
+2021-05-21,2021-05-22,,R00002,Ottawa Region,S00008,AMA Community Centre
+2021-05-21,2021-05-22,,B66125,Peel District School Board,89028,Cherrytree Public School
+2021-05-21,2021-05-22,,B66125,Peel District School Board,122815,Cooksville Creek Public School
+2021-05-21,2021-05-23,,B66125,Peel District School Board,229647,Whaley's Corners Public School
+2021-05-21,2021-05-23,,B66125,Peel District School Board,80454,Camilla Road Senior Public School
+2021-05-21,2021-05-22,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,845361,St. Peter Catholic Secondary School
+2021-05-21,2021-05-22,,B66214,Renfrew County District School Board,904767,Mackenzie Community School - Secondary School
+2021-05-21,2021-05-27,,B66109,Simcoe County District School Board,894060,Bear Creek Secondary School
+2021-05-21,2021-05-26,,B67091,Simcoe Muskoka Catholic District School Board,773050,St Thomas Aquinas Catholic Secondary School
+2021-05-21,2021-05-27,,B67040,St Clair Catholic District School Board,864366,Ursuline College Chatham Catholic Secondary School
+2021-05-21,2021-05-25,,B66044,Thames Valley District School Board,941743,Sir Frederick Banting Secondary School
+2021-05-21,2021-05-28,,B66052,Toronto District School Board,952605,Weston Collegiate Institute
+2021-05-21,2021-05-22,,B66087,Trillium Lakelands District School Board,917761,Huntsville High School
+2021-05-21,2021-05-22,,B66117,Upper Grand District School Board,185582,Erin Public School
+2021-05-21,2021-05-23,,B67148,Waterloo Catholic District School Board,832103,St Mary's High School
+2021-05-21,2021-05-22,,B66176,Waterloo Region District School Board,907499,Eastwood Collegiate Institute
+2021-05-21,2021-05-27,,B67130,Wellington Catholic District School Board,708704,Sacred Heart - Rockwood Catholic Elementary School
+2021-05-21,2021-05-27,2021-05-28,B67075,York Catholic District School Board,748528,Our Lady of the Lake Catholic Academy High School
+2021-05-21,2021-05-27,2021-05-28,B66095,York Region District School Board,904970,Dr John M Denison Secondary School
+2021-05-21,2021-05-27,2021-05-28,B66095,York Region District School Board,933346,Bur Oak Secondary School
+2021-05-21,2021-05-27,2021-05-28,B66095,York Region District School Board,947814,Thornlea Secondary School
+2021-05-28,2021-05-29,,B66010,Avon Maitland District School Board,899569,Central Huron Secondary School
+2021-05-28,2021-06-03,,B66001,Bluewater District School Board,180789,Georgian Bay Community School
+2021-05-28,2021-05-29,,B67008,Bruce-Grey Catholic District School Board,705098,St Peter's & St Paul's Separate School
+2021-05-28,2021-05-29,,B67172,Catholic District School Board of Eastern Ontario,759040,Sacred Heart School
+2021-05-28,2021-05-30,,B66303,Conseil scolaire Viamonde,907308,�cole secondaire Georges-P-Vanier
+2021-05-28,2021-06-02,,B66150,District School Board of Niagara,952214,Westlane Secondary School
+2021-05-28,2021-05-29,,B67083,Dufferin-Peel Catholic District School Board,684199,St. Bonaventure Catholic Elementary School
+2021-05-28,2021-05-30,,B67083,Dufferin-Peel Catholic District School Board,823953,St Martin Secondary School
+2021-05-28,2021-05-29,,B66168,Grand Erie District School Board,903728,Delhi District Secondary School
+2021-05-28,2021-05-29,,B67113,Halton Catholic District School Board,696392,St. Francis Xavier Catholic Secondary School
+2021-05-28,2021-06-01,,B67113,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School
+2021-05-28,2021-06-02,,B67113,Halton Catholic District School Board,688231,Assumption Catholic Secondary School
+2021-05-28,2021-05-29,,B66133,Halton District School Board,926736,Milton District High School
+2021-05-28,2021-06-03,,B66133,Halton District School Board,926736,Milton District High School
+2021-05-28,2021-05-29,,B67121,Hamilton-Wentworth Catholic District School Board,694134,St. John Henry Newman Catholic Secondary School
+2021-05-28,2021-06-04,,B67121,Hamilton-Wentworth Catholic District School Board,689750,Bishop Ryan Catholic Secondary School
+2021-05-28,2021-05-31,,B66141,Hamilton-Wentworth District School Board,941719,Sir Allan MacNab Secondary School
+2021-05-28,2021-05-29,,B66079,Kawartha Pine Ridge District School Board,898260,Campbellford District High School
+2021-05-28,2021-06-03,,B66036,Lambton Kent District School Board,890861,Great Lakes Secondary School
+2021-05-28,2021-06-02,,B67032,London District Catholic School Board,854280,St Thomas Aquinas Secondary School
+2021-05-28,2021-06-02,,B67156,Niagara Catholic District School Board,703796,Denis Morris Catholic High School
+2021-05-28,2021-05-29,,B66125,Peel District School Board,59404,Claireville Public School
+2021-05-28,2021-05-29,,B66125,Peel District School Board,197410,Malala Yousafzai PS (Elementary)
+2021-05-28,2021-05-30,,B66125,Peel District School Board,13463,Alloa Public School
+2021-05-28,2021-05-30,,B66125,Peel District School Board,514357,Silverthorn Public School
+2021-05-28,2021-05-29,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,720240,Holy Trinity Catholic Secondary School
+2021-05-28,2021-06-02,,B67091,Simcoe Muskoka Catholic District School Board,801275,St Joan of Arc High School
+2021-05-28,2021-06-01,,B66044,Thames Valley District School Board,944939,Parkside Collegiate Institute
+2021-05-28,2021-05-29,,B66192,Upper Canada District School Board,998935,TR Leger Adult Con Ed Secondary School
+2021-05-28,2021-05-29,,B66192,Upper Canada District School Board,488542,Rockland Public School
+2021-05-28,2021-05-29,,B66192,Upper Canada District School Board,935425,Rockland District High School
+2021-05-28,2021-05-29,2021-05-30,B66192,Upper Canada District School Board,949094,Vankleek Hill Collegiate Institute
+2021-05-28,2021-05-30,,B66192,Upper Canada District School Board,452297,Pleasant Corners Public School
+2021-05-28,2021-05-30,,B67148,Waterloo Catholic District School Board,732320,Monsignor Doyle Catholic Secondary School
+2021-05-28,2021-05-29,,B66176,Waterloo Region District School Board,911399,Galt Collegiate and Vocational Institute
+2021-05-28,2021-05-29,,B67130,Wellington Catholic District School Board,708704,Sacred Heart - Rockwood Catholic Elementary School
+2021-05-28,2021-05-29,,B67024,Windsor-Essex Catholic District School Board,717835,Holy Name Catholic School
+2021-05-28,2021-06-03,2021-06-04,B67075,York Catholic District School Board,756709,Sacred Heart Catholic High School
+2021-05-28,2021-06-03,2021-06-04,B66095,York Region District School Board,926140,Middlefield Collegiate Institute
+2021-05-28,2021-06-03,2021-06-04,B66095,York Region District School Board,954292,Woodbridge College
+2021-05-28,2021-06-03,2021-06-04,B66095,York Region District School Board,905020,Dr G W Williams Secondary School
+2021-06-08,2021-06-05,,B67008,Bruce-Grey Catholic District School Board,732133,Sacred Heart School
+2021-06-08,2021-06-05,,B67008,Bruce-Grey Catholic District School Board,759430,Sacred Heart High School
+2021-06-08,2021-06-05,,B67172,Catholic District School Board of Eastern Ontario,804800,St John Catholic High School
+2021-06-08,2021-06-05,,B67318,Conseil scolaire catholique MonAvenir,705357,�SC Renaissance
+2021-06-08,2021-06-06,,B67318,Conseil scolaire catholique MonAvenir,683922,�SAC M�re-Teresa
+2021-06-08,2021-06-11,,B66303,Conseil scolaire Viamonde,934852,�cole secondaire Le Caron
+2021-06-08,2021-06-09,,B66150,District School Board of Niagara,897646,Greater Fort Erie Secondary School
+2021-06-08,2021-06-06,,B67083,Dufferin-Peel Catholic District School Board,822655,St Marguerite d'Youville Secondary School
+2021-06-08,2021-06-05,,B67113,Halton Catholic District School Board,697125,Christ the King Catholic Secondary School
+2021-06-08,2021-06-05,,B67113,Halton Catholic District School Board,780871,St. Brigid Catholic Elementary School
+2021-06-08,2021-06-08,,B67113,Halton Catholic District School Board,854212,St. Thomas Aquinas Catholic Secondary School
+2021-06-08,2021-06-09,,B67113,Halton Catholic District School Board,689726,Bishop Paul Francis Reding Catholic Secondary School
+2021-06-08,2021-06-05,,B66133,Halton District School Board,947539,Thomas A Blakelock High School
+2021-06-08,2021-06-10,,B66133,Halton District School Board,947539,Thomas A Blakelock High School
+2021-06-08,2021-06-05,,B67121,Hamilton-Wentworth Catholic District School Board,689750,Bishop Ryan Catholic Secondary School
+2021-06-08,2021-06-05,,B67016,Huron Perth Catholic District School Board,832545,St Michael Catholic Secondary School
+2021-06-08,2021-06-10,,B66036,Lambton Kent District School Board,950521,Wallaceburg District Secondary School
+2021-06-08,2021-06-09,,B67032,London District Catholic School Board,752827,Regina Mundi College
+2021-06-08,2021-06-05,,B66125,Peel District School Board,185850,Esker Lake Public School
+2021-06-08,2021-06-05,,B66125,Peel District School Board,228940,Great Lakes Public School
+2021-06-08,2021-06-06,,B66125,Peel District School Board,449075,Plowman's Park Public School
+2021-06-08,2021-06-05,2021-06-06,B66125,Peel District School Board,80741,Chris Hadfield P.S. (Elementary)
+2021-06-08,2021-06-05,,B67067,Peterborough Victoria Northumberland and Clarington Catholic District School Board,720240,Holy Trinity Catholic Secondary School
+2021-06-08,2021-06-09,,B67091,Simcoe Muskoka Catholic District School Board,844012,St Peter's Secondary School
+2021-06-08,2021-06-05,,B66087,Trillium Lakelands District School Board,922838,Lindsay Collegiate and Vocational Institute
+2021-06-08,2021-06-05,,B66192,Upper Canada District School Board,935050,Perth and District Collegiate Institute
+2021-06-11,2021-06-12,,B67172,Catholic District School Board of Eastern Ontario,751502,St Francis Xavier Catholic High School
+2021-06-11,2021-06-12,,B66133,Halton District School Board,912433,Georgetown District High School
+2021-06-11,2021-06-17,,B66133,Halton District School Board,912433,Georgetown District High School
+2021-06-11,2021-06-16,,B67032,London District Catholic School Board,763602,St. Andre Bessette Secondary School
+2021-06-11,2021-06-16,,B67091,Simcoe Muskoka Catholic District School Board,813389,St Joseph's Separate School
+2021-06-11,2021-06-12,,B66192,Upper Canada District School Board,937673,Russell High School
+2021-06-18,2021-06-23,,B67105,Durham Catholic District School Board,741310,Monsignor Paul Dwyer Catholic High School
+2021-06-18,2021-06-19,,B66060,Durham District School Board,934991,Brooklin High School
+2021-06-18,2021-06-22,,B66060,Durham District School Board,890855,Ajax High School
+2021-06-18,2021-06-19,,B66133,Halton District School Board,918300,Iroquois Ridge High School
+2021-06-18,2021-06-24,,B66133,Halton District School Board,918300,Iroquois Ridge High School
+2021-06-18,2021-06-23,,B67032,London District Catholic School Board,810916,St Joseph's High School
+2021-06-18,2021-06-19,,B66192,Upper Canada District School Board,911526,Gananoque Secondary School
+2021-06-25,2021-06-30,,B67105,Durham Catholic District School Board,685984,All Saints Catholic Secondary School
+2021-06-25,2021-06-26,,B66060,Durham District School Board,350508,McCaskill's Mills Public School
+2021-06-25,2021-06-29,,B66060,Durham District School Board,948969,Uxbridge Secondary School
+2021-06-25,2021-06-30,,B67032,London District Catholic School Board,831190,St Mary's High School
